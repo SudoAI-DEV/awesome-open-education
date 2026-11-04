@@ -20,6 +20,7 @@ For open educational material(OEM), only [creative commons licences](https://cre
 
 - [Open edx](https://github.com/edx/): Online learning at https://edx.org, powered by the Open edX platform developed in python and licensed under AGPL-3.0.
 - [Moodle](https://github.com/moodle/moodle) the world's open source learning platform developed in php and licensed under GNU General Public
+- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
   License.
 
 ## OEM
